@@ -6,7 +6,7 @@
 
 <div align="center">
   
-# <img align="center" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="50"> About Me <img align="center"  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+# <img align="center" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="50"> About Me <img align="center"  src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="50">
   
 </div>
 
@@ -33,7 +33,7 @@ Greetings! I am a final year B.Tech Computer Science Engineering student at Vell
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
- 🌐 Socials:
+# <img align="center" src="371903520_SOCIAL_ICONS_400.gif" width="50"> Socials  <img align="center"  src="08 Social Media is calling me again.gif" width="50"> 
 <div>
 <a href="https://www.instagram.com/_.aaditya_jaiswal/" target="_blank" >
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">   
@@ -46,7 +46,7 @@ Greetings! I am a final year B.Tech Computer Science Engineering student at Vell
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-# 📊 GitHub Stats:
+# <img align="center" src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50"> GitHub Stats  <img align="center"  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/51865424-10f2-4859-8055-b62b1c0d8d36" width="50">
 ![](https://github-readme-stats.vercel.app/api?username=adityajaiswal37&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityajaiswal37&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajaiswal37&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -60,6 +60,8 @@ Greetings! I am a final year B.Tech Computer Science Engineering student at Vell
 [![](https://visitcount.itsvg.in/api?id=adityajaiswal37&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="200" alt="animated hello">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 </div>
