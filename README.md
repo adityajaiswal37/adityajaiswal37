@@ -3,7 +3,6 @@
 </div>
 
 <h1>💫 About Me:</h1>
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200">
 Greetings! I am a final year B.Tech Computer Science Engineering student at Vellore Institute of Technology, driven by a deep passion for software development. Proficient in front-end technologies such as HTML5, CSS3, JavaScript, and React, Additionally, I have hands-on experience with Amazon Web Services, holding the Solutions Architect Associate certification.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
