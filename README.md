@@ -1,26 +1,20 @@
+<div align="center" >
+  
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="800">
+  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="1000">
 </div>
 
-<h1>💫 About Me:</h1>
+<div align="center">
+  
+# <img align="center" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="50"> About Me <img align="center"  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+  
+</div>
+
 Greetings! I am a final year B.Tech Computer Science Engineering student at Vellore Institute of Technology, driven by a deep passion for software development. Proficient in front-end technologies such as HTML5, CSS3, JavaScript, and React, Additionally, I have hands-on experience with Amazon Web Services, holding the Solutions Architect Associate certification.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-
-## 🌐 Socials:
-<div>
-<a href="https://www.instagram.com/_.aaditya_jaiswal/" target="_blank" >
-<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">   
-</a>
-
-<a href="www.linkedin.com/in/adityajaiswal37" target="_blank" >
-<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
-</a>
-       
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-# 💻 Tech Stack:
+# <img align="center" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50"> Tech Stack <img align="center"  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+    
 <div>
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"> 
@@ -33,14 +27,32 @@ Greetings! I am a final year B.Tech Computer Science Engineering student at Vell
 <img src="java.png" width="100">
 <img src="aws-certified-solutions-architect-associate (2).png" width="100">
 </div>
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="200">
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+ 🌐 Socials:
+<div>
+<a href="https://www.instagram.com/_.aaditya_jaiswal/" target="_blank" >
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">   
+</a>
+
+<a href="www.linkedin.com/in/adityajaiswal37" target="_blank" >
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+</a>
+       
+</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=adityajaiswal37&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityajaiswal37&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajaiswal37&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div>
+  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3ebcb3ede9e.gif" width="300">
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ---
@@ -48,3 +60,5 @@ Greetings! I am a final year B.Tech Computer Science Engineering student at Vell
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+</div>
