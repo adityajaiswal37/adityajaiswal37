@@ -4,7 +4,7 @@
 
 <h1>💫 About Me:</h1>
 Greetings! I am a final year B.Tech Computer Science Engineering student at Vellore Institute of Technology, driven by a deep passion for software development. Proficient in front-end technologies such as HTML5, CSS3, JavaScript, and React, Additionally, I have hands-on experience with Amazon Web Services, holding the Solutions Architect Associate certification.
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 
 ## 🌐 Socials:
@@ -18,7 +18,7 @@ Greetings! I am a final year B.Tech Computer Science Engineering student at Vell
 </a>
        
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 # 💻 Tech Stack:
 <div>
@@ -30,9 +30,10 @@ Greetings! I am a final year B.Tech Computer Science Engineering student at Vell
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
-<img src="animation_lkvbgsc6_small.gif" width="100">
-    
+<img src="java.png" width="100">
+<img src="aws-certified-solutions-architect-associate (2).png" width="100">
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 
 # 📊 GitHub Stats:
@@ -40,10 +41,10 @@ Greetings! I am a final year B.Tech Computer Science Engineering student at Vell
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adityajaiswal37&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityajaiswal37&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adityajaiswal37&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
