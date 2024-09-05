@@ -10,7 +10,7 @@
   
 </div>
 
-Greetings! I am a final year B.Tech Computer Science Engineering student at Vellore Institute of Technology, driven by a deep passion for software development. Proficient in front-end technologies such as HTML5, CSS3, JavaScript, and React, Additionally, I have hands-on experience with Amazon Web Services, holding the Solutions Architect Associate certification.
+My experience as a Software Development Engineer at Hinshitsu Manufacturing Pvt Ltd (Customfurnish) has allowed me to gain expertise in both front-end and back-end technologies, such as Angular, AngularJS, Three.js, React.js, Java Spring Boot, Node.js, GitHub, and Jenkins. Working on challenging projects, contributing to creative solutions, and always improving as a developer have all been made possible by my experience in the IT sector.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 # <img align="center" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="50"> Tech Stack <img align="center"  src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
