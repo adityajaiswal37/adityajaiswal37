@@ -42,5 +42,7 @@ My experience as a Software Development Engineer at Hinshitsu Manufacturing Pvt 
 
 
 
-
+<div align="center">
+  <img src="https://github.com/adityajaiswal37/adityajaiswal37/blob/main/animeart.webp" width="100%">
+</div>
 </div>
